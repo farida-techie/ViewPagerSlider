@@ -1,5 +1,5 @@
 # ViewPagerSlider
-This is Jetpack copose View Pager Slider example
+This is Jetpack copomse View Pager Slider example
 
 CheckOut Youtube tutorial👇👇👇
 https://youtu.be/vc8G9Jsj5FE
